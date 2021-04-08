@@ -1,6 +1,6 @@
 <p align="center">App sobre a Covid-19 </p>
 
-<img alt="govidGif" title="covidGif" src="./covid.gif" />
+<img alt="govidGif" title="covidGif" src="./covid.gif" align="center" />
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
